@@ -1,12 +1,12 @@
-# 星合の空
+# 海内存知己，天涯若比邻
 
 欢迎访问我的个人主页！下面向你介绍一下我自己吧~
 
 <!-- slide -->
 
-## 我的一些联系方式
+## 我的初试成绩
 
-- Address: **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
+- 总分: 304   政治:70 英语二:70 数学二:57    软件专业基础
 - Phone: **+86 18756280097**
 - Site: **<https://wu-kan.cn>**
 
