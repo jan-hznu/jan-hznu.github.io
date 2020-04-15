@@ -26,7 +26,7 @@
 
 <!-- slide vertical=true -->
 -  2017.12 – 2018.12            河南国科信息科技有限公司         java后端开发
-工作描述：参与[==信阳民政局官网 #03A9F4==](http://www.hnxymzj.gov.cn/)的开发，主要负责[==低保社保信息信息公示系统 #03A9F4==](http://www.hnxymzj.gov.cn:7070/dbwb/index1)，解决开发和运行中出现的各种问题。
+工作描述：参与[信阳民政局官网](http://www.hnxymzj.gov.cn/)的开发，主要负责[低保社保信息信息公示系统](http://www.hnxymzj.gov.cn:7070/dbwb/index1)，解决开发和运行中出现的各种问题。
    - 工作收获：从在校实习开始做这份工作，通过这份工作了解了javaweb项目开发流程，在工作中提升了编程水平，熟练掌握了SSM框架。
 
 
